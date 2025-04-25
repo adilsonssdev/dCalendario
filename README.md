@@ -13,6 +13,8 @@ Suporte a feriados (com tabela de parâmetro)
 
 Configuração flexível de períodos
 
+<img width="299" alt="image" src="https://github.com/user-attachments/assets/451339ba-89a8-48d1-93de-a30b37990996" />
+
 ## 📥 Instalação
 Copie o código da função M disponível em:
 GitHub - fxGeraCalendarioAlisonV3
@@ -28,4 +30,4 @@ Date (data do feriado)
 
 Holiday (descrição/nome do feriado)
 
-<img width="299" alt="image" src="https://github.com/user-attachments/assets/451339ba-89a8-48d1-93de-a30b37990996" />
+
